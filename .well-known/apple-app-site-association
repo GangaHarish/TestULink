@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9434T587C9.com.test.TestULink",
+        "paths": [
+          "/*"
+        ]
+      }
+    ]
+  }
+}
